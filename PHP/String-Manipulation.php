@@ -45,6 +45,7 @@ function number_translator($str, $en = TRUE)
 }
 
 
+
 /**
  * close unclosed html tags
  * @param $html
